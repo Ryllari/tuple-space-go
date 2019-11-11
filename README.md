@@ -3,6 +3,8 @@ Controle de ambiente ubíquo com espaço de tuplas em Go utilizando a biblioteca
 
 
 ## Como executar
+Obs: Todos os arquivos executáveis estão na pasta [*run*](https://github.com/Ryllari/tuple-space-go/run).
+
 Para executar o controle de ambientes como manager,execute os arquivos de acordo com o seu sistema operacional
 ### Windows
 ```
